@@ -1,8 +1,8 @@
 # Precious Plastics Recycling Center Research Log
 
 **Student:**  Ash Pena
-**Course:** Engineering I or Engineering II  
-engineering 1
+**Course:** Engineering I
+
 
 ## Week 1 — Defining the Problem
 
